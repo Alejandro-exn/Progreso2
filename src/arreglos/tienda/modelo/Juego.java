@@ -1,4 +1,4 @@
-package arregos.tienda.modelo;
+package arreglos.tienda.modelo;
 
 public class Juego {
     private String nombre;
@@ -76,7 +76,6 @@ public class Juego {
         }
         return false;
     }
-
     @Override
     public String toString() {
         return "Juego{" +

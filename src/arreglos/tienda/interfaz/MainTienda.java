@@ -1,6 +1,6 @@
-package arregos.tienda.interfaz;
+package arreglos.tienda.interfaz;
 
-import arregos.tienda.modelo.Juego;
+import arreglos.tienda.modelo.Juego;
 
 public class MainTienda {
     static void main() {
