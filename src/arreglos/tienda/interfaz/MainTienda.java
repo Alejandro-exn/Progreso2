@@ -59,7 +59,6 @@ public class MainTienda {
         double precio = Double.parseDouble(sc.nextLine());
         System.out.print("Ingrese el stock inicial: ");
         int licenciasDisponibles = Integer.parseInt(sc.nextLine());
-        int licenciasDisponibles = Integer.parseInt(sc.nextLine());
         if (tienda. agregarJuego(new Juego(nombre,categoria,tamanio,precio,licenciasDisponibles))){
             JOptionPane.showMessageDialog(null, "Juego agregado correctamente");
         }else{
