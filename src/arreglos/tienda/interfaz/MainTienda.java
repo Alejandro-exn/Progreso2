@@ -1,6 +1,7 @@
 package arreglos.tienda.interfaz;
 import arreglos.tienda.modelo.AppStore;
 import arreglos.tienda.modelo.Juego;
+import arreglos.tienda.utilitario.Valida;
 
 import javax.swing.*;
 import java.util.Scanner;
